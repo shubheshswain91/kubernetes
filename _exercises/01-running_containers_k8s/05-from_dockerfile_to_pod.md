@@ -48,6 +48,16 @@ Give it a shot and see if you can complete these steps before referring to the d
 
 Don't forget to clean up your resources afterward to maintain a tidy environment!
 
+
+## Output 
+
+![Image 03](assets/03.png)
+
+![Image 04](assets/04.png)
+
+![Image 05](assets/05.png)
+
+
 ## Conclusion
 
 Congratulations on making it through this process! 🌟 You have now learned how to take an application from a Dockerfile, build it, push it to Docker Hub, and run it in Kubernetes. Remember, practice makes perfect, so keep experimenting and learning more about Docker and Kubernetes.
