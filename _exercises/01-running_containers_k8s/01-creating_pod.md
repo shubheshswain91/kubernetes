@@ -38,10 +38,3 @@ Here’s how to create and manage your pod in a clear step-by-step format:
 ## Conclusion
 
 Congratulations on successfully spinning up your first pod! 🎉 You’ve now gone through the basics of using `kubectl` to create and manage pods in Kubernetes. Keep practicing these commands and exploring other features of Kubernetes to deepen your understanding. The more you experiment, the more proficient you’ll become!
-
- ## Output
-
- ### Containers can communicate with each other within a Pod.
- For example we run a Nginx container and it shows its IP address as: 10.244.0.3. This IP can't be used from outside using the curl but can be communicated with another container running in the POD as shown in the image.
-
- ![Image 01](assets/01.png) 

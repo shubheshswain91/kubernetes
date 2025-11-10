@@ -61,6 +61,14 @@ Give it a shot! Try to perform these steps on your own before diving into the de
    kubectl delete pod <pod-name>
    ```
 
+ ## Output
+
+ ### Containers can communicate with each other within a Pod.
+ For example we run a Nginx container and it shows its IP address as: 10.244.0.3. This IP can't be used from outside using the curl but can be communicated with another container running in the POD as shown in the image.
+
+ ![Image 01](assets/01.png) 
+
+
 ## Conclusion
 
 In this lecture, we covered how to gather detailed information about Kubernetes pods using `kubectl`, create and manage pods effectively, and establish communication with them. We also explored some tools like `curl` for testing connectivity. Keep practicing these commands, as getting comfortable with them will greatly improve your abilities in Kubernetes. Happy learning! 🚀
