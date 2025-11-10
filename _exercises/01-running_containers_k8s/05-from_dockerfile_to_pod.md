@@ -57,6 +57,8 @@ Don't forget to clean up your resources afterward to maintain a tidy environment
 
 ![Image 05](assets/05.png)
 
+![Image 05](assets/06.png)
+
 
 ## Conclusion
 
