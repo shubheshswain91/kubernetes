@@ -55,6 +55,8 @@ Here’s a straightforward guide to help you through the process:
    kubectl delete pod <alpine-pod-name>
    kubectl delete pod <nginx-pod-name>
    ```
+## Output
+![Image 01](assets/02.png) 
 
 ## Conclusion
 
