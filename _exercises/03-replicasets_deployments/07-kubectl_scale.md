@@ -25,6 +25,10 @@ Give it a try! Implement these steps on your own before checking out the detaile
 
 5. **Special Case for Pod Recovery**: If your pods are unhealthy, you can scale down to zero replicas with `kubectl scale deployment nginx --replicas=0` and then back up to your desired number like `kubectl scale deployment nginx --replicas=5`.
 
+### Output
+
+![Image 03](assets/12.png)
+
 ## Conclusion
 
 Scaling deployments in Kubernetes is an essential skill that allows you to manage your application's computer resources effectively. While the `kubectl scale` command is useful for temporary adjustments, always remember to keep your deployment configurations up-to-date for consistency. 🚀 Keep practicing these commands and exploring other Kubernetes functionalities; there's a lot more to learn!
