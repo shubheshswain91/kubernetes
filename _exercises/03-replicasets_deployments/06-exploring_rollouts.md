@@ -65,6 +65,8 @@ Now, challenge yourself to implement these steps before peeking at the detailed 
    ```
 ### Output
 
+![Image 03](assets/07.png)
+
 ![Image 03](assets/08.png)
 
 ![Image 03](assets/09.png)
