@@ -56,6 +56,8 @@ Give it a shot, and let's see how far you can get before checking the guide! ðŸš
    ```bash
    kubectl describe pod <new_pod_name> | grep Image
    ```
+## Output
+![Image 03](assets/01.png)
 
 ## Conclusion
 
