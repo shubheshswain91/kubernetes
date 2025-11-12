@@ -36,6 +36,12 @@ Let's walk through the steps to update your pod template:
 
 9. **Confirm the New Image**: Use `kubectl get pods` and then `kubectl describe pod <pod-name>` to check that the new image version is correctly applied.
 
+### Output
+
+![Image 03](assets/05.png)
+
+![Image 03](assets/06.png)
+
 ## Conclusion
 
 You've successfully updated your pod template in Kubernetes and monitored the changes through a rolling update! 🎉 This exercise is critical for understanding how Kubernetes manages deployments and updates. Remember, practice is key! Keep experimenting with different configurations and commands to deepen your understanding.
