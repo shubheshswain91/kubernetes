@@ -63,6 +63,15 @@ Now, challenge yourself to implement these steps before peeking at the detailed 
    ```bash
    kubectl describe deployment/nginx-deployment
    ```
+### Output
+
+![Image 03](assets/08.png)
+
+![Image 03](assets/09.png)
+
+![Image 03](assets/10.png)
+
+![Image 03](assets/11.png)
 
 ## Conclusion
 
