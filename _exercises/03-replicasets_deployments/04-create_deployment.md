@@ -93,6 +93,10 @@ I encourage you to give it a try and implement the solution based on these steps
      kubectl get pod <pod-name> -o yaml
      ```
 
+### Output
+
+![Image 03](assets/04.png)
+
 ## Conclusion
 
 Congratulations on creating your first Kubernetes deployment! 🎉 We covered how to write the YAML configuration, apply it, and monitor the deployment and its pods. This knowledge is fundamental for managing applications in Kubernetes. Keep practicing, experiment with different configurations, and enhance your skills as we delve deeper into the world of Kubernetes!
