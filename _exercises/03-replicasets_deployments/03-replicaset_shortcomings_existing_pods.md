@@ -21,6 +21,12 @@ I encourage you to give these steps a shot on your own before proceeding to the 
 4. **Observe the Behavior**: Notice how the ReplicaSet manages the pod counts, including terminating any excess pods that match its selector.
 5. **Remove the Unwanted Pod**: Once you've finished testing, delete the manually created pod to clean up your environment.
 
+### Output
+
+![Image 03](assets/02.png)
+
+![Image 03](assets/03.png)
+
 ### Conclusion
 
 In this session, we explored how Kubernetes manages pods within a ReplicaSet when additional pods with matching selectors are created. Understanding this behavior ensures that we can effectively maintain our cluster without conflicts. Keep practicing these concepts, and don’t hesitate to try out different scenarios to deepen your understanding! Happy learning! 🌟
