@@ -42,6 +42,12 @@ Are you ready? Let’s see how you can set this up on your own! 🚀
 7. **Test**:
    - Open your web browser and navigate to the service URL to see if you can communicate with your pods from outside the cluster.
 
+### Output
+
+![Image03](assets/06.png)
+
+![Image03](assets/07.png)
+
 ## Conclusion
 
 Congratulations on successfully setting up a NodePort service! 🎉 This task has illustrated how we can expose our applications to the outside world while contrasting it with the more restricted ClusterIP service. Remember, while NodePort is useful for development, managing security is essential when transitioning to production. Keep practicing and experimenting with Kubernetes, and you'll find yourself becoming more proficient in no time!
