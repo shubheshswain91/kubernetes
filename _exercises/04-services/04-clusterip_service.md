@@ -65,6 +65,14 @@ Take a moment to go through these steps on your own before checking the detailed
 8. **Monitor Logs**:
    - Follow the logs to see how the traffic is handled and the load balancing in action.
 
+### Output
+
+![Image03](assets/03.png)
+
+![Image03](assets/04.png)
+
+![Image03](assets/05.png)
+
 ## Conclusion
 
 In this session, we learned how to set up a Cluster IP service in Kubernetes, enabling efficient internal communication within our cluster. Remember, using the service name instead of the Cluster IP allows for more stability, especially during pod or service restarts. Keep experimenting with what you've learned and continue to practice these concepts! 🚀
