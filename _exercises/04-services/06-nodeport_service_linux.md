@@ -69,6 +69,10 @@ Here’s how you can implement the NodePort service:
 
 After following these steps, you should now have a functioning NodePort service!
 
+### Output
+
+![Image03](assets/08.png)
+
 ## Conclusion
 
 In this guide, we explored how to implement a NodePort service on Linux machines in a Kubernetes environment. You learned how to create a deployment, set up a service, and test your setup using `curl`. As you continue to delve deeper into Kubernetes, practicing these implementations will solidify your understanding and enhance your skills. Keep up the great work! 🚀
