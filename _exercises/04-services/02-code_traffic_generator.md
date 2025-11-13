@@ -56,6 +56,12 @@ Let’s break this down into manageable steps:
 8. **Build and Push to Docker Hub:**
    - Use Docker commands to build your image and push it to your repository on Docker Hub.
 
+### Output
+
+ ![Image 01](assets/01.png) 
+
+  ![Image 01](assets/02.png)
+
 ## Conclusion
 
 Congratulations on reaching the end of this lecture! You've successfully constructed a traffic generator and learned how to package it in a Docker container. Remember, the key to mastering these concepts is continuous practice and exploration. Keep experimenting, and don't hesitate to push your limits as you learn more about Kubernetes and cloud-native applications.

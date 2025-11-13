@@ -1,5 +1,7 @@
 #!/bin/sh
 
+# ./traffic-gen.sh www.google.com 2 # sends request to www.google.com every 2 seconds
+
 if [ "$#" -lt 2 ]; then
     echo "Usage: $0 <target> <interval-in-seconds>"
     exit 1
