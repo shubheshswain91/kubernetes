@@ -82,6 +82,9 @@ Try to implement these steps before checking out the detailed guide below! 🚀
    kubectl delete -f Google_extname.yaml
    kubectl delete -f traffic-generator.yaml
    ```
+### Output
+
+![Image03](assets/09.png)
 
 ## Conclusion
 
