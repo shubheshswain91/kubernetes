@@ -73,6 +73,14 @@ Give it a shot! 🚀 Challenge yourself to implement these steps before referenc
 
 5. **Explore Further**: Experiment with creating pods in both namespaces that utilize the specified resource limits to see how Kubernetes enforces these quotas.
 
+### Output
+
+![Image03](assets/09.png) 
+
+![Image03](assets/10.png)
+
+![Image03](assets/11.png) 
+
 ## Conclusion
 
 In this lesson, we tackled the concept of resource quotas in Kubernetes, focusing on how to define and apply them within different namespaces. Remember, being aware of resource limits helps maintain efficient resource usage across your cluster. Keep exploring and practicing this concept to deepen your understanding! Happy learning! 🎉
