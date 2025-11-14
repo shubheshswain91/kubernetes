@@ -47,6 +47,14 @@ We encourage you to try these steps on your own before referring to the detailed
 7. **Clean Up**:
    - Once you’re done experimenting, clean up your resources to keep your environment tidy.
 
+### Output
+
+![Image03](assets/13.png) 
+
+![Image03](assets/14.png) 
+
+![Image03](assets/15.png) 
+
 ## Conclusion
 
 In this lecture, we have discussed the importance of managing resource requests and limits when deploying applications in Kubernetes. Understanding how to effectively use resource quotas will help you prevent deployment issues and ensure smooth application rollouts. Remember, always monitor your resource usage and keep learning as you go! 🌟
