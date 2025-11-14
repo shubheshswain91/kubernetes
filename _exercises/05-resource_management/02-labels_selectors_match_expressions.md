@@ -24,6 +24,10 @@ Try working through these steps on your own and see how it goes before checking 
 6. **Implement Match Expressions**: Add match expressions to allow for more complex selection logic. For instance, you could create rules to only manage pods with specific properties.
 7. **Apply Your Deployment**: Use the terminal to apply your changes by running `kubectl apply -f .` and monitor the pods created by your deployment.
 
+### Output
+
+![Image03](assets/02.png)
+
 ## Conclusion
 
 In this section, we've learned about the importance of labels, selectors, and match expressions when configuring deployments in Kubernetes. Understanding these concepts will significantly enhance your ability to manage your applications and resources efficiently. Keep practicing these skills, and don't hesitate to explore additional complexities in your Kubernetes setups! Happy learning! 🌱
