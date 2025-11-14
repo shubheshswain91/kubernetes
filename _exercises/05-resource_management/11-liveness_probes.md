@@ -46,6 +46,16 @@ We encourage you to give it a go! Try implementing these steps yourself before p
 7. **Clean Up**:
    - Once done, remember to delete your pod to keep your environment tidy.
 
+### Output
+
+![Image03](assets/16.png)   
+
+![Image03](assets/17.png)   
+
+![Image03](assets/18.png)   
+
+![Image03](assets/19.png)   
+
 ## Conclusion
 
 In this lecture, we explored how to use liveness probes to ensure your containers are functioning healthily in Kubernetes. We learned that failed liveness probes can trigger container restarts, which helps maintain application stability. Keep practicing these concepts as they are vital for managing Kubernetes applications effectively. Remember, the key takeaway here is that liveness probes help us ensure our applications are running smoothly! 🌟
