@@ -91,6 +91,16 @@ Give these steps a go! It’s a great chance to solidify your understanding befo
      ```bash
      kubectl delete -f dev-ns.yaml
      ```
+### Output
+
+![Image03](assets/03.png)
+
+![Image03](assets/04.png)
+
+![Image03](assets/05.png)
+
+![Image03](assets/06.png)
+
 
 ## Conclusion
 
