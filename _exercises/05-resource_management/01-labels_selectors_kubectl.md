@@ -67,6 +67,10 @@ I encourage you to try implementing these steps on your own before proceeding to
 
 6. **Experiment**: Continue to refine your queries using various combinations of labels and operators.
 
+### Output
+
+![Image03](assets/01.png)
+
 ## Conclusion
 
 In this session, we explored how to create and manage Pods in Kubernetes using labels and selectors. Remember that using labels effectively can help you maintain a clean and organized cluster, especially as it scales. Keep practicing these concepts, and you'll find them becoming second nature as you continue your Kubernetes journey! 🚀
