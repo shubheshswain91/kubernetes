@@ -89,6 +89,9 @@ Give these steps a shot first! Don't worry; if you get stuck, we'll have a detai
      kubectl delete pod color-api --namespace dev
      kubectl delete pod heavy-api --namespace dev
      ```
+### Output
+
+![Image03](assets/12.png) 
 
 ## Conclusion
 
