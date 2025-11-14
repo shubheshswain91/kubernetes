@@ -51,6 +51,10 @@ Before looking at the step-by-step guide, give it a shot on your own and see if 
 7. **Clean Up:**
    - Delete all resources you created for this exercise to maintain a clean environment.
 
+### Output
+
+![Image03](assets/20.png) 
+
 ## Conclusion
 
 In this lecture, we explored readiness probes and their important role in ensuring that only healthy pods receive traffic. This feature is critical for maintaining the reliability of your applications running on Kubernetes. Remember, setting up these probes not only helps in automatic remediation but also improves user experience by avoiding service interruptions. Keep practicing, and you'll become more proficient with Kubernetes!
