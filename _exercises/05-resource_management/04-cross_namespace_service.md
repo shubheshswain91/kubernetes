@@ -40,6 +40,12 @@ Give it a shot! It's a great opportunity to practice what you've learned, and wh
 6. **Verify the Setup**:
    - Check the status of your pods and services using `kubectl get pods` and `kubectl get services`.
    - Look at the logs of the traffic generator pod to confirm it’s successfully communicating with the `color API`.
+  
+### Output
+
+![Image03](assets/07.png) 
+
+![Image03](assets/08.png) 
 
 ## Conclusion
 
