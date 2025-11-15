@@ -36,6 +36,12 @@ We encourage you to try implementing these steps yourself before checking the de
 6. **Prepare for Stateful Set Definition**:
    - Get ready to define and apply your Stateful Set, which you will do in the next steps.
 
+### Output
+
+![Image01](assets/17.png)
+
+![Image01](assets/18.png)
+
 ## Conclusion
 
 In this session, we explored how to create Persistent Volumes and set up Stateful Sets in Kubernetes. These concepts are crucial for managing stateful applications effectively, providing stable identities and storage for your Pods. Keep practicing these techniques, as mastering them will greatly enhance your Kubernetes skills. Happy coding! 🚀
