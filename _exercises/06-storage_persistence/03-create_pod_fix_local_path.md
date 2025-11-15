@@ -52,6 +52,15 @@ Give it a shot and see how far you can get before checking the detailed instruct
 8. **Repeat for Additional Pods**:
    - Optionally, create another pod that uses the same persistent volume claim and demonstrate that it can access the same data.
 
+### Output
+
+![Image01](assets/07.png)
+
+![Image01](assets/08.png)
+
+
+
+
 ## Conclusion
 
 In this guide, we walked through creating a pod with a local persistent volume and addressed the common errors that can arise when the specified path isn’t found. Remember, the ability to maintain data across pod lifecycles is a powerful feature of Kubernetes that enables flexible application architecture. Keep practicing, and soon you'll be navigating Kubernetes like a pro! 🚀
