@@ -49,6 +49,16 @@ Now, let's go through the steps in detail:
 7. **Reclaim Policy Consideration**:
    - If you're curious about changing the reclaim policy, refer back to the storage class and consider adjusting the reclaim policy from 'Delete' to 'Retain' in future applications.
 
+### Output
+
+![Image01](assets/13.png)
+
+![Image01](assets/14.png)
+
+![Image01](assets/15.png)
+
+![Image01](assets/16.png)
+
 ## Conclusion
 
 Awesome job exploring the dynamic provisioning of persistent volumes! 🛠️ This feature not only automates the management of storage but also enhances your efficiency when working with Kubernetes. Remember, understanding how to manage persistent volumes dynamically is crucial for maintaining applications in production environments. Keep practicing and don't hesitate to experiment with other scenarios!
