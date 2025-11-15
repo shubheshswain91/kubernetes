@@ -39,6 +39,11 @@ Before diving into the step-by-step guide, I encourage you to give it a shot and
 6. **Validate and Experiment**:
    - Use commands like `kubectl get pods` and `kubectl describe statefulset <your-statefulset-name>` to ensure everything is running as expected.
 
+### Output
+
+![Image01](assets/19.png)
+
+
 ## Conclusion
 
 Congratulations! You've now learned how to create a StatefulSet in Kubernetes and manage its associated persistent storage effectively. Remember that StatefulSets are ideal when you need stable identities for your pods, which offers significant benefits for applications that manage state. Keep practicing, and don’t hesitate to explore the official Kubernetes documentation for more advanced configurations and options! 🚀

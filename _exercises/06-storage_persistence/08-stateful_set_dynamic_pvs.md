@@ -43,6 +43,11 @@ Take a moment to try these steps on your own before looking at the detailed guid
    kubectl get pvc
    ```
 
+### Output
+
+![Image01](assets/20.png)
+
+
 ## Conclusion
 
 By following these steps, you've successfully migrated your stateful set to utilize dynamically provisioned persistent volumes. This transition ensures that Kubernetes effectively manages storage resources, making your applications more flexible and resilient. Keep practicing these concepts, as they are foundational to effectively managing stateful applications in Kubernetes. If you have any questions or run into issues, don’t hesitate to reach out for help as you continue your learning journey! 🙌
