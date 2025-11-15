@@ -47,6 +47,12 @@ Now, take a moment to try following these steps on your own before looking at th
 6. **Clean Up**:
    - Remove the created resources with `kubectl delete` commands.
 
+### Output
+
+![Image01](assets/21.png)
+
+![Image01](assets/22.png)
+
 ## Conclusion
 
 Today, we've delved into headless services within Kubernetes and how they interact with stateful sets. By providing direct access to individual pods, headless services enable applications that need consistent data access across instances. Don’t hesitate to keep experimenting and practicing with these concepts, especially in real-world scenarios! 💻
