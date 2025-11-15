@@ -73,6 +73,16 @@ Take your time and try to implement these steps on your own before looking at th
   ```bash
   kubectl describe pvc local-volume-claim
   ```
+### Output
+
+![Image01](assets/04.png)
+
+![Image01](assets/05.png)
+
+![Image01](assets/06.png)
+
+
+
 
 ## Conclusion
 
