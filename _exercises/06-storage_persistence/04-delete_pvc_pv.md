@@ -25,6 +25,13 @@ I encourage you to try implementing this yourself first before checking out the 
 
 6. **Delete Everything (Optional)**: If you choose to delete everything, use `kubectl delete pod <pod-name> --force` for the Pod along with `kubectl delete pvc <pvc-name>` to remove the PVC and check that the PV no longer exists.
 
+### Output
+
+![Image01](assets/11.png)
+
+![Image01](assets/12.png)
+
+
 ## Conclusion
 
 Today, we delved into what happens when we delete Persistent Volume Claims and Persistent Volumes in Kubernetes. We highlighted that while deleting a PVC affects its associated volume's status, files may still persist based on the configuration. Understanding these nuances is crucial for managing data effectively in your Kubernetes clusters. As you continue your journey with Kubernetes, keep practicing these concepts, as hands-on experience will greatly enhance your understanding and skills—keep it up! 🚀
