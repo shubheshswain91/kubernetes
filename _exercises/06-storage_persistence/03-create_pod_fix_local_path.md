@@ -58,6 +58,10 @@ Give it a shot and see how far you can get before checking the detailed instruct
 
 ![Image01](assets/08.png)
 
+![Image01](assets/09.png)
+
+![Image01](assets/10.png)
+
 
 
 
