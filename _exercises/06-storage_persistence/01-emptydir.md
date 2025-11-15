@@ -38,6 +38,15 @@ Now, give this a shot on your own! Once you've tried your hand at implementing i
 8. **Create a second container** within the same pod, allowing one container to write and the other to read from the same EmptyDir volume:
    - Set the reader container with the `readOnly` flag set to `true`.
 
+### Output
+
+![Image01](assets/01.png)
+
+![Image01](assets/02.png)
+
+![Image01](assets/03.png)
+
+
 ## Conclusion
 
 You've learned how to implement and manage EmptyDir volumes in Kubernetes! This type of storage is transient and tied to the pod lifecycle, making it essential to consider when handling data in your applications. Keep practicing and exploring other volume types as we continue our Kubernetes journey together! 💻
