@@ -82,6 +82,13 @@ Now that you've had a go at it, let's walk through the detailed steps together:
 7. **Optionally, Mount Entire Secret**  
    If you want to mount the entire secret as environment variables, modify your YAML file accordingly.
 
+### Output
+
+![Image01](assets/05.png)
+
+![Image01](assets/06.png)
+
+
 ## Conclusion
 
 In this lesson, we've explored the importance of managing Kubernetes secrets securely. We created a secret and accessed its values within a pod through environment variables. Remember, secrets are sensitive information, and handling them appropriately is crucial to ensure your applications remain secure. Keep practicing these techniques, and you’ll become more proficient in managing secrets and configurations in Kubernetes! 🌟
