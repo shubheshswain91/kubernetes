@@ -49,6 +49,10 @@ Take a moment to think through these steps and see if you can implement the solu
 6. **Delete the Pod and Secrets**:
    - Once you’re done testing, clean up by deleting the Pod and any secrets you’ve created using `kubectl delete pod <pod-name>` and `kubectl delete secret db-creds`.
 
+### Output
+
+![Image01](assets/07.png)
+
 ## Conclusion
 
 In this lecture, we’ve covered how to pass secrets to containers in Kubernetes using volume mounts. You’ve learned about securely managing your secrets and the importance of controlling who has access to them. Remember that managing permissions is critical to maintaining the security of your applications. Keep practicing these concepts as you dive deeper into Kubernetes!
