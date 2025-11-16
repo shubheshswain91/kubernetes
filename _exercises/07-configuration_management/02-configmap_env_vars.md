@@ -48,6 +48,10 @@ Take a moment to try these steps on your own before checking the detailed guide 
 7. **Verify:**
    - Open your web browser to check if the service is correctly returning "red" as expected.
 
+### Output
+
+![Image01](assets/02.png)
+
 ## Conclusion
 
 In summary, using Config Maps to manage environment variables allows you to easily change configurations without altering your application code. You’ve learned two approaches for binding environment variables from a Config Map and how to expose your pod services. Remember to keep practicing what you’ve learned here! The more you engage with these concepts, the more comfortable you will become with Kubernetes. Happy coding! 🚀
