@@ -43,6 +43,14 @@ Take some time to implement this on your own! 💪 Once you're ready, you can re
    - Use `kubectl exec` to access the Pod and verify that the mounted files reflect the Config Map content.
    - Test by running your script and accessing the environment variable to ensure everything works as expected.
 
+
+### Output
+
+![Image01](assets/03.png)
+
+![Image01](assets/04.png)
+
+
 ## Conclusion
 
 In this session, we learned how to effectively mount Config Maps as volumes within our containers, allowing us to separate our configuration data and make it accessible to applications. We’ve also discussed best practices for managing configuration data in Kubernetes, which can simplify our workflows and improve maintainability.
