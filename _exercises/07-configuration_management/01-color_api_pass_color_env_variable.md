@@ -74,6 +74,11 @@ Follow these steps to successfully update your Color API:
    docker push your_username/color_api:1.3.0
    ```
 
+### Output
+
+![Image01](assets/01.png)
+
+
 ## Conclusion
 
 You’ve successfully extended the functionality of the Color API to support environment variables and configuration files for color settings! This practice not only reinforces your coding skills but also enhances your understanding of handling configurations in applications. Keep experimenting and learning; there’s always more to explore in the world of Kubernetes and application development! 🌟
