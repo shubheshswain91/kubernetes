@@ -15,3 +15,21 @@ Before diving into the detailed steps, here’s a high-level summary of what you
 7. Test the API using a NodePort service to interact with external users.
 
 Take a moment to implement this solution on your own! You might be surprised at how much you can achieve without immediate guidance.
+
+### Output
+
+![Image01](assets/01.png)
+
+![Image01](assets/02.png)
+
+![Image01](assets/03.png)
+
+![Image01](assets/04.png)
+
+![Image01](assets/05.png)
+
+![Image01](assets/06.png)
+
+![Image01](assets/07.png)
+
+![Image01](assets/08.png)
