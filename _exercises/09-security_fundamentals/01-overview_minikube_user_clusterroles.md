@@ -40,6 +40,10 @@ Give it a shot! After you’ve had a go, refer to the step-by-step guide below. 
 6. **Test the User Permissions**:
    - Switch to each user context and validate their permissions by attempting actions within the cluster, such as deploying a pod or accessing secrets.
 
+### Output
+
+![Image01](assets/01.png)
+
 ## Conclusion
 
 In this lecture, we learned about the significance of RBAC in Kubernetes and how to set up and manage user access using contexts, roles, and bindings. By using x509 certificates, we mapped users to roles effectively, ensuring secure interactions with the Kubernetes API. This foundational understanding of RBAC is essential as you continue your journey in Kubernetes. Keep practicing these concepts to deepen your understanding! 🌟
