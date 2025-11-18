@@ -25,6 +25,14 @@ Give it your best shot to implement these steps before checking the detailed gui
    - Change your pod labels or policy definitions and reapply them to observe the changes in behavior.
 6. **Confirm Results**: Test again to make sure the policy behaves as expected when pod labels meet or don’t meet the specified conditions.
 
+### Output
+
+![Image01](assets/21.png)
+
+![Image01](assets/22.png)
+
+![Image01](assets/23.png)
+
 ## Conclusion
 
 In this lecture, we've explored how to define pod selectors within network policies in Kubernetes, specifically looking at how to use match expressions and behavior under different configurations. Remember, practicing these skills will help deepen your understanding of Kubernetes network management. Keep experimenting and enhancing your knowledge! 🚀
