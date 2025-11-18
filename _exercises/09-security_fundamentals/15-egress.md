@@ -39,6 +39,10 @@ Here’s a clear breakdown to help you implement the egress policies:
 6. **Test the Implementation:**
    - After applying all policies and recreating your pods, test the connectivity from the curl pod to the color API service and ensure DNS queries resolve correctly.
 
+### Output
+
+![Image01](assets/27.png)
+
 ## Conclusion
 
 In this lecture, we've explored how to implement egress network policies in Kubernetes. We started with a default deny-all approach and then created specific rules to allow traffic to the color API and DNS services as needed. Remember that understanding how to control pod communication is key to securing your Kubernetes environment. Keep practicing these concepts, and soon you'll feel more confident managing network policies in your deployments! 💻
