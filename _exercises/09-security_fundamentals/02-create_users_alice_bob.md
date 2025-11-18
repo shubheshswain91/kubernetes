@@ -57,12 +57,6 @@ Here’s a concise guide to help you through the implementation:
     ```
 ### Output
 
-![Image01](assets/02.png)
-
-![Image01](assets/03.png)
-
-![Image01](assets/04.png)
-
 ![Image01](assets/05.png)
 
 ![Image01](assets/06.png)
