@@ -86,6 +86,14 @@ Now, take a moment to attempt this on your own before looking at the detailed gu
    kubectl logs <traffic-generator-pod-name> -n dev
    ```
 
+### Output
+
+![Image01](assets/24.png)
+
+![Image01](assets/25.png)
+
+![Image01](assets/26.png)
+
 ## Conclusion
 
 In this lecture, we covered how to combine namespace selectors and pod selectors to enforce more granular network policies in Kubernetes. This technique enhances security by ensuring that only intended pods are allowed to communicate, based on the conditions specified in the selectors. Keep experimenting with these concepts as they are foundational to creating secure applications in Kubernetes!
