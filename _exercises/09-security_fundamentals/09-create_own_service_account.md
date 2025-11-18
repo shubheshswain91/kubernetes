@@ -62,6 +62,15 @@ Take a moment to try out these steps on your own before looking at the detailed 
 
 9. **Re-test the API Call**: Repeat the API call from inside the pod to check if it succeeds this time.
 
+### Output
+
+![Image01](assets/14.png)
+
+![Image01](assets/15.png)
+
+![Image01](assets/16.png)
+
+
 ## Conclusion
 
 In this exercise, we successfully created a service account, linked it to a pod, and assigned it the necessary permissions to interact with the Kubernetes API. 🎉 This knowledge will significantly enhance your ability to manage your applications and services effectively in Kubernetes. Keep experimenting and building on what you’ve learned, and you’ll become quite proficient in Kubernetes in no time!
