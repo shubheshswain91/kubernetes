@@ -48,6 +48,15 @@ Give it a shot before checking out the detailed steps below!
 7. **Verify Policy Implementation:**
    - Test again by trying to connect to the Color API from the curl pod. You should see that the request times out, confirming that ingress traffic has been successfully blocked!
 
+### Output
+
+![Image01](assets/17.png)
+
+![Image01](assets/18.png)
+
+![Image01](assets/19.png)
+
+
 ## Conclusion
 
 Congratulations on setting up a Kubernetes cluster with a Deny All Ingress policy! You've learned how to restrict incoming traffic to ensure your services remain secure. Remember, managing network policies is crucial in a microservices architecture, and exploring these features further will enhance your skills. Keep experimenting and practicing! 🚀
