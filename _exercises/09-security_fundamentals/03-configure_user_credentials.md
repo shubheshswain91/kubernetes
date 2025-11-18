@@ -59,6 +59,20 @@ Give it a try! It’s a great opportunity to practice on your own before checkin
    ```
    Expect an error indicating permission issues, as roles and bindings haven't been configured yet.
 
+
+### Output
+
+![Image01](assets/07.png)
+
+![Image01](assets/08.png)
+
+![Image01](assets/09.png)
+
+![Image01](assets/10.png)
+
+![Image01](assets/11.png)
+
+
 ## Conclusion
 
 Congratulations on nearly finishing the user setup process in Kubernetes! 🎉 You've learned how to create user contexts and set credential paths, which is essential for managing secure access to your cluster. Remember, this is just the beginning. In upcoming lectures, we will cover configuring permissions with roles and bindings, so stay tuned and keep practicing what you’ve learned!
