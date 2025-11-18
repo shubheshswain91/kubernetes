@@ -39,6 +39,16 @@ Now, let's see if you can implement this before checking the detailed guide belo
 
 7. **Inspect resource details**: Explore the different API versions available and familiarize yourself with both stable and alpha/beta resources.
 
+### Output
+
+![Image01](assets/02.png)
+
+![Image01](assets/03.png)
+
+![Image01](assets/04.png)
+
+
+
 ## Conclusion
 
 Great job! By following this guide, you should be well on your way to understanding how to explore and interact with Kubernetes API resources. Remember, the key takeaway is to familiarize yourself with the API documentation, as it is an essential tool for working with Kubernetes. Keep practicing, and don’t hesitate to explore more resources to deepen your understanding! Happy learning! 🚀
