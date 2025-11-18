@@ -15,3 +15,7 @@ In this exercise, you'll implement two environments of our Color API application
 7. Use `kustomize` to manage customization in deployments.
 
 Before diving into the step-by-step guide, take a moment to try implementing the solution by following the overview steps. It’s a great way to reinforce your learning!
+
+### Output
+
+![Image01](assets/01.png)
