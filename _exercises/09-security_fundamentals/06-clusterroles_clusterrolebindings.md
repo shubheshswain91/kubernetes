@@ -28,6 +28,12 @@ Before checking the detailed steps below, take a moment to try implementing this
 6. **Verify Permissions**:
    - Test with the user contexts for Bob and Alice to confirm that only Alice (and users of the admin group) can manage pods, while Bob cannot.
 
+### Output
+
+![Image01](assets/12.png)
+
+![Image01](assets/13.png)
+
 ## Conclusion
 
 In this session, we explored how to utilize cluster roles and role bindings to effectively manage pod permissions in Kubernetes. We learned how to create broader permissions for admin groups, ensuring they can perform various operations on pods across namespaces. Keep practicing this concept to deepen your understanding, and don't hesitate to experiment with different configurations. You’re doing great! 🚀
