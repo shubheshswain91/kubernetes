@@ -48,6 +48,12 @@ Give it a shot! 🚀 Try implementing these steps on your own first. Once you fe
 
 8. **Cleanup**: Once done, delete the pods and namespaces you've created to keep things tidy.
 
+### Output
+
+![Image01](assets/29.png)
+
+![Image01](assets/30.png)
+
 ## Conclusion
 
 In this session, we've explored the implementation of pod security standards in Kubernetes by creating and managing namespaces and enforcing security policies. By practicing these configurations, you'll enhance your understanding of Kubernetes security practices. Keep experimenting and pushing the limits of your Kubernetes knowledge! 🌟
