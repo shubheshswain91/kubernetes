@@ -66,6 +66,10 @@ Take your time, work through these steps, and see how the network policies behav
 6. **Repeat with Different Namespaces**:
    - Create another test environment and see how the policy behaves with other namespaces to confirm its behavior.
 
+### Output
+
+![Image01](assets/28.png)
+
 ## Conclusion
 
 In this session, we've explored how network policies in Kubernetes operate on a namespace-level basis, particularly how they can deny traffic effectively. By structuring your network policies correctly, you ensure that your applications remain secure and performant across different namespaces. Keep practicing this concept to solidify your understanding! 🌐
