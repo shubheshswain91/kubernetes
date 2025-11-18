@@ -27,6 +27,10 @@ Give it a shot, and once you’re ready, check out the detailed step-by-step gui
 
 Remember, if the changes don’t apply immediately, you may need to delete and recreate the affected pods to see the results.
 
+### Output
+
+![Image01](assets/20.png)
+
 ## Conclusion
 
 Congratulations on learning how to implement your first network policies in Kubernetes! By allowing traffic from specific pods, you're taking significant steps toward more secure and efficient applications. Keep practicing and exploring the capabilities of Kubernetes, and don’t hesitate to come back if you have questions. You've got this! 🌟
