@@ -22,3 +22,7 @@ Before diving into the step-by-step guide, take a moment to try implementing the
 ![Image01](assets/nginx_depl.png)
 
 ![Image01](assets/02.png)
+
+![Image01](assets/03.png)
+
+![Image01](assets/04.png)
