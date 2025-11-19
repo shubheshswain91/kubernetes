@@ -41,6 +41,10 @@ Here’s a clear path to follow for achieving the objectives discussed:
    - Clear the terminal and re-run your configuration using Kustomize.
    - Check the deployment output to confirm that only the NGINX deployment image tag has changed.
 
+### Output
+
+![Image01](assets/17.png)
+
 ## Conclusion
 
 Patching is a powerful tool in K8s customization, allowing you to make targeted modifications to your deployments with precision. By leveraging the patches field, you can manage specifics while leaving other configurations intact. Keep experimenting with the patches functionality, as there’s much more to discover as you continue your learning journey! 🌱
