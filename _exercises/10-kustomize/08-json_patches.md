@@ -46,6 +46,12 @@ Give it a go! If you feel stuck, you can always refer back to the detailed guide
 
 6. **Test with Other Resources**: Consider applying similar patches to other deployments or using label selectors for a broader application. Review if the resources maintain compatibility with the modifications.
 
+### Output
+
+![Image01](assets/22.png)
+
+![Image01](assets/23.png)
+
 ## Conclusion
 
 Congratulations on learning how to use JSON patches to remove resources from your Kubernetes configurations! Using patches provides you with fine-grained control over your resources and enhances your ability to manage configurations dynamically. As you continue to practice, you'll gain more confidence in customizing Kubernetes resources effectively. Keep experimenting and learning!
