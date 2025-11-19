@@ -101,6 +101,10 @@ Now, let’s follow the baby steps to successfully create your first Kustomize p
 
 And that’s it! You've set up your first Kustomize project!
 
+### Output
+
+![Image01](assets/01.png)
+
 ## Conclusion
 
 You’ve just unlocked the door to managing Kubernetes manifests more effectively with Kustomize! 🎉 Remember, this is just the beginning, and there are many more capabilities to explore. Keep experimenting and practicing, and you’ll be a Kustomize pro in no time. Don’t hesitate to revisit this guide or seek out further resources to deepen your understanding.
