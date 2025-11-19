@@ -18,4 +18,7 @@ Before diving into the step-by-step guide, take a moment to try implementing the
 
 ### Output
 
-![Image01](assets/01.png)
+
+![Image01](assets/nginx_depl.png)
+
+![Image01](assets/02.png)
