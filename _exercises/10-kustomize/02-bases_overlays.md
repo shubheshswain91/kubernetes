@@ -45,6 +45,12 @@ Take a moment to work through these steps and see how far you can get before che
 
 This approach allows you to keep a single source of truth for your configuration files while enabling customizations as needed.
 
+### Output
+
+![Image01](assets/02.png)
+
+![Image01](assets/03.png)
+
 ## Conclusion
 
 In this lecture, we explored how bases and overlays work within Kubernetes customizations, focusing on structuring your applications to avoid duplication while managing different environments efficiently. Remember, this pattern is incredibly powerful and will help you significantly as you continue your Kubernetes journey. Keep practicing, and don’t hesitate to dive deeper into more sophisticated customization techniques!
