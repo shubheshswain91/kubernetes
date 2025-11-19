@@ -38,6 +38,16 @@ Let’s break it down step by step:
 
 Congrats! 🎉 You've handled the patches in a much more organized manner.
 
+### Output
+
+![Image01](assets/18.png)
+
+![Image01](assets/19.png)
+
+![Image01](assets/20.png)
+
+![Image01](assets/21.png)
+
 ## Conclusion
 
 In this lecture, we discovered how to make Kubernetes patches more manageable and maintainable by moving from inline patches to separate YAML files. This approach not only enhances clarity but also makes it easier to handle complex configurations. Remember, always consider the order of your patches since that affects the final outcome.
