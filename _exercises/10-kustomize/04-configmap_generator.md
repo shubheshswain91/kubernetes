@@ -34,6 +34,18 @@ Give it a go and see how much you can implement on your own before diving into t
 8. **Conclusion of the Task**:
    - Ensure you walk through the process, confirm all changes, and rerun the command to view results.
 
+### Output
+
+![Image01](assets/11.png)
+
+![Image01](assets/12.png)
+
+![Image01](assets/13.png)
+
+![Image01](assets/14.png)
+
+![Image01](assets/15.png)
+
 ## Conclusion
 
 In this lecture, we explored the Config Map generator in Kubernetes Kustomize, learning how to create and manage these configurations from various sources. The ability to generate multiple Config Maps based on different parameters allows for a more dynamic and flexible approach to managing configurations in your applications. Keep practicing these steps, and we’ll continue our journey into the world of Kubernetes! 🚀
