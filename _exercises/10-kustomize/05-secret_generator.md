@@ -76,6 +76,10 @@ Alright, let’s break this down into manageable steps:
      ```
    - Check that your secrets are created and linked properly.
 
+### Output
+
+![Image01](assets/16.png)
+
 ## Conclusion
 
 Well done! You have implemented secret generators in Kubernetes to manage sensitive configuration data securely. Remember that using Secrets rather than Config Maps for sensitive information enhances security in your applications. Keep practicing your Kubernetes skills, and don’t hesitate to apply these concepts in your projects. Happy learning! 🚀
