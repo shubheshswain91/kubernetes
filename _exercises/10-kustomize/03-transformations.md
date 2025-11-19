@@ -34,6 +34,22 @@ Follow these steps to implement the transformations using Kubernetes customizati
 
 6. **Inspect Your Changes**: Use the command `kubectl apply -k ./nginx/app/overlays/dev` to apply your changes and verify they have taken effect.
 
+### Output
+
+![Image01](assets/04.png)
+
+![Image01](assets/05.png)
+
+![Image01](assets/06.png)
+
+![Image01](assets/07.png)
+
+![Image01](assets/08.png)
+
+![Image01](assets/09.png)
+
+![Image01](assets/10.png)
+
 ## Conclusion
 
 In this session, we explored the powerful transformations you can achieve with Kubernetes customization. By modifying resource names, applying common labels and annotations, updating image versions, and adjusting replica counts, you can efficiently manage your Kubernetes environments. Keep pushing forward with your learning journey, and don’t hesitate to practice these transformations to solidify your understanding! 🚀
